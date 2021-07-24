@@ -31,5 +31,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/textViewTen"
         android:layout_toRightOf="@+id/imageView"
-        android:text="TextView" />
+        android:text="TextView"
+        android:textSize="20dp"/>
 </RelativeLayout>

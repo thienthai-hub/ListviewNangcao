@@ -49,7 +49,10 @@ public class MainActivity extends AppCompatActivity {
         arrayListTraiCay.add(new TraiCay("Ổi", "Ổi Cao Lãnh", R.drawable.traicay1));
         arrayListTraiCay.add(new TraiCay("Bơ", "Ổi Cao Lãnh", R.drawable.traicay2));
         arrayListTraiCay.add(new TraiCay("Khế", "Ổi Cao Lãnh", R.drawable.traicay3));
-        //delte
+        arrayListTraiCay.add(new TraiCay("Kiwi", "Ổi Cao Lãnh", R.drawable.traicay5));
+        arrayListTraiCay.add(new TraiCay("khớm", "Ổi Cao Lãnh", R.drawable.traicay6));
+        arrayListTraiCay.add(new TraiCay("Dừa", "Ổi Cao Lãnh", R.drawable.traicay7));
+        arrayListTraiCay.add(new TraiCay("Nho mỹ", "Ổi Cao Lãnh", R.drawable.traicay8));
     }
 
 

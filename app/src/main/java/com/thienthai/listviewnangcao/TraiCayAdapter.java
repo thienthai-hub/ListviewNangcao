@@ -38,7 +38,7 @@ public class  TraiCayAdapter extends BaseAdapter {
     public long getItemId(int position) {
         return 0;
     }
-
+    //tap class Hoder
     private class viewHolder{
         TextView txtTen, txtDes;
         ImageView hinhAnh;
