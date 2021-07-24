@@ -7,7 +7,7 @@ import android.widget.Adapter;
 import android.widget.ListView;
 
 import java.util.ArrayList;
-
+//B5. kết nói giữa Adapter và listView
 public class MainActivity extends AppCompatActivity {
     ListView lvTraiCay;
     ArrayList<TraiCay> arrayListTraiCay;

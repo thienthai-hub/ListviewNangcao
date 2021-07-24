@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-
+<!--B1 tạo layout cho dòng list view-->
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="120dp"

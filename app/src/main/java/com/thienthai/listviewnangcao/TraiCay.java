@@ -1,5 +1,5 @@
 package com.thienthai.listviewnangcao;
-
+//B2- Tạo object cho đối tượng
 public class TraiCay {
     private String Ten;
     private String MoTa;

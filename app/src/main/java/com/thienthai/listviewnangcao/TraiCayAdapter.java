@@ -11,7 +11,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.List;
-
+//B3- custom Adapter để show ra màng hình
 public class  TraiCayAdapter extends BaseAdapter {
 
     private Context context;
