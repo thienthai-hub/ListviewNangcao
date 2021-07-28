@@ -4,33 +4,33 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-<!--B1 tạo layout cho dòng list view-->
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
-        android:scaleType="fitCenter"
-        android:padding="20dp"
-        tools:srcCompat="@tools:sample/avatars" />
+    <!--B1 tạo layout cho dòng list view-->
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:scaleType="fitCenter"
+            android:padding="20dp"
+            tools:srcCompat="@tools:sample/avatars" />
 
-    <TextView
-        android:id="@+id/textViewTen"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_toRightOf="@+id/imageView"
-        android:text="TextView"
-        android:textSize="30sp"
-        android:textStyle="bold"
-        android:textColor="#ED1010"
-        android:layout_marginTop="20dp"
-        android:layout_marginBottom="20dp"/>
+        <TextView
+            android:id="@+id/textViewTen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/imageView"
+            android:text="TextView"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#ED1010"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"/>
 
-    <TextView
-        android:id="@+id/textViewDes"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/textViewTen"
-        android:layout_toRightOf="@+id/imageView"
-        android:text="TextView"
-        android:textSize="20dp"/>
+        <TextView
+            android:id="@+id/textViewDes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textViewTen"
+            android:layout_toRightOf="@+id/imageView"
+            android:text="TextView"
+            android:textSize="20dp"/>
 </RelativeLayout>

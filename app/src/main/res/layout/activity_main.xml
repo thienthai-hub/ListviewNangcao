@@ -5,9 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-<!--B4 Tạo layout cho listview-->
-    <ListView
-        android:id="@+id/lvTraiCay"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+    <!--B4 Tạo layout cho listview-->
+        <ListView
+            android:id="@+id/lvTraiCay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
 </RelativeLayout>
